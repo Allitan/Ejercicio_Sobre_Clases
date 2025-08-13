@@ -30,6 +30,8 @@ adopcion3.asignarNombre("Caballo", "Pegaso");
 
 console.log(" ");
 console.log("*****************************************")
+console.log("*****************************************")
+console.log("*****************************************")
 console.log(" ")
 
 const animal1 = new Animal(4, "Perro", 6, "Pastor Aleman");
